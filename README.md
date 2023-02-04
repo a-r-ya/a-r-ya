@@ -1,6 +1,6 @@
 ## 👾 Hi there!
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=a-r-ya.a-r-ya)
+![Profile View Counter](https://komarev.com/ghpvc/?username=a-r-ya&color=blueviolet&style=flat-square)
 
 I'm Alina, a data analyst. 
 
