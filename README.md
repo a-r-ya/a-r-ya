@@ -6,6 +6,6 @@ I'm Alina, a data analyst.
 
 You can find me on:
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3%"/>](https://www.linkedin.com/in/alina-yalysheva/) &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/alina-yalysheva/) &nbsp; 
 
 ## 🐶 Pet projects
