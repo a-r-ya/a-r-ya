@@ -6,7 +6,7 @@ I'm Alina, a data analyst.
 
 You can find me on:
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/alina-yalysheva/) &nbsp; 
+<a href="https://in.linkedin.com/in/alina-yalysheva" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alina-yalysheva"/></a> &nbsp; 
 
 ## 🐶 Pet projects
 
